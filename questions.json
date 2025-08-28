@@ -1,0 +1,440 @@
+[
+  {
+    "id": "ECO_001",
+    "topic": "Economia",
+    "type": "mcq",
+    "question": "Che cos'è la ricchezza in economia?",
+    "choices": [
+      "Il flusso di denaro ricevuto in un periodo",
+      "Il valore totale dei beni posseduti in un certo momento",
+      "Solo i beni materiali posseduti",
+      "Il reddito disponibile dopo le tasse"
+    ],
+    "answer": "Il valore totale dei beni posseduti in un certo momento",
+    "explanation": "La ricchezza misura lo stock di beni in un dato istante.",
+    "source": "Studio Idoneità — Concetti base",
+    "source_url": ""
+  },
+  {
+    "id": "ECO_002",
+    "topic": "Economia",
+    "type": "mcq",
+    "question": "Il reddito è:",
+    "choices": [
+      "Uno stock misurato in un istante",
+      "Un flusso misurato in un periodo",
+      "Sempre uguale alla ricchezza",
+      "Solo lo stipendio mensile"
+    ],
+    "answer": "Un flusso misurato in un periodo",
+    "explanation": "Il reddito è un flusso (es. salario mensile, profitti annuali).",
+    "source": "Studio Idoneità — Concetti base",
+    "source_url": ""
+  },
+  {
+    "id": "ECO_003",
+    "topic": "Economia",
+    "type": "tf",
+    "question": "La moneta è qualsiasi bene universalmente accettato come mezzo di pagamento.",
+    "answer": true,
+    "explanation": "Definizione standard di moneta.",
+    "source": "Studio Idoneità — Introduzione",
+    "source_url": ""
+  },
+  {
+    "id": "ECO_004",
+    "topic": "Economia",
+    "type": "mcq",
+    "question": "Quale tra questi è un esempio di investimento?",
+    "choices": [
+      "Acquistare cibo al supermercato",
+      "Tenere contanti nel portafoglio",
+      "Comprare un macchinario per produrre beni",
+      "Pagare l'affitto di casa"
+    ],
+    "answer": "Comprare un macchinario per produrre beni",
+    "explanation": "L'investimento acquista beni capitali per produzione futura.",
+    "source": "Studio Idoneità — Produzione e investimento",
+    "source_url": ""
+  },
+  {
+    "id": "ECO_005",
+    "topic": "Economia",
+    "type": "mcq",
+    "question": "Quale domanda NON è tra i problemi fondamentali di un sistema economico?",
+    "choices": [
+      "Cosa produrre?",
+      "Come produrre?",
+      "Per chi produrre?",
+      "Quanto tassare?"
+    ],
+    "answer": "Quanto tassare?",
+    "explanation": "Le tre domande fondamentali sono cosa, come, per chi.",
+    "source": "Studio Idoneità — Sistemi economici",
+    "source_url": ""
+  },
+  {
+    "id": "ECO_006",
+    "topic": "Economia",
+    "type": "mcq",
+    "question": "Nel sistema liberista, il ruolo dello Stato è:",
+    "choices": [
+      "Assente",
+      "Minimo",
+      "Dominante",
+      "Di pianificazione centrale"
+    ],
+    "answer": "Minimo",
+    "explanation": "Nel liberismo decide il mercato.",
+    "source": "Studio Idoneità — Sistemi economici",
+    "source_url": ""
+  },
+  {
+    "id": "ECO_007",
+    "topic": "Economia",
+    "type": "mcq",
+    "question": "L'economista associato a forte intervento pubblico in recessione è:",
+    "choices": [
+      "Adam Smith",
+      "Karl Marx",
+      "John Maynard Keynes",
+      "Milton Friedman"
+    ],
+    "answer": "John Maynard Keynes",
+    "explanation": "Ruolo attivo dello Stato in politica fiscale.",
+    "source": "Studio Idoneità — Sistemi economici",
+    "source_url": ""
+  },
+  {
+    "id": "ECO_008",
+    "topic": "Economia",
+    "type": "mcq",
+    "question": "Quale fattore NON influenza direttamente la domanda di un bene?",
+    "choices": [
+      "Reddito dei consumatori",
+      "Prezzo di beni complementari o succedanei",
+      "Gusti e preferenze",
+      "Costo di produzione del bene"
+    ],
+    "answer": "Costo di produzione del bene",
+    "explanation": "Influenza l'offerta, non la domanda.",
+    "source": "Studio Idoneità — Domanda e offerta",
+    "source_url": ""
+  },
+  {
+    "id": "ECO_009",
+    "topic": "Economia",
+    "type": "tf",
+    "question": "La domanda di un bene essenziale tende ad essere poco elastica al prezzo.",
+    "answer": true,
+    "explanation": "Per beni essenziali la quantità varia poco con il prezzo.",
+    "source": "Studio Idoneità — Elasticità",
+    "source_url": ""
+  },
+  {
+    "id": "ECO_010",
+    "topic": "Economia",
+    "type": "mcq",
+    "question": "Quando quantità domandata e offerta coincidono, il prezzo è:",
+    "choices": [
+      "Amministrato",
+      "Di mercato",
+      "Di equilibrio",
+      "Marginale"
+    ],
+    "answer": "Di equilibrio",
+    "explanation": "Domanda = offerta.",
+    "source": "Studio Idoneità — Prezzo di equilibrio",
+    "source_url": ""
+  },
+  {
+    "id": "DIR_001",
+    "topic": "Diritto",
+    "type": "mcq",
+    "question": "In diritto, l'impresa è:",
+    "choices": [
+      "Il complesso di beni organizzati",
+      "L'attività economica organizzata per produrre o scambiare beni o servizi",
+      "Il lavoratore subordinato",
+      "L'organo della società"
+    ],
+    "answer": "L'attività economica organizzata per produrre o scambiare beni o servizi",
+    "explanation": "Art. 2082 c.c.: definizione di imprenditore/impresa come attività.",
+    "source": "Codice Civile art. 2082",
+    "source_url": "https://www.brocardi.it/codice-civile/.../art2082.html"
+  },
+  {
+    "id": "DIR_002",
+    "topic": "Diritto",
+    "type": "mcq",
+    "question": "L'azienda è:",
+    "choices": [
+      "L'insieme dei soci",
+      "Il complesso di beni organizzati per l'esercizio dell'impresa",
+      "Il capitale sociale",
+      "Il marchio"
+    ],
+    "answer": "Il complesso di beni organizzati per l'esercizio dell'impresa",
+    "explanation": "Beni materiali e immateriali organizzati.",
+    "source": "Idoneità documento 2 — Azienda",
+    "source_url": ""
+  },
+  {
+    "id": "DIR_003",
+    "topic": "Diritto",
+    "type": "mcq",
+    "question": "L'imprenditore commerciale deve:",
+    "choices": [
+      "Iscriversi al Registro delle Imprese e tenere le scritture contabili",
+      "Solo pagare le imposte",
+      "Non ha obblighi specifici",
+      "Iscriversi all'albo degli artigiani"
+    ],
+    "answer": "Iscriversi al Registro delle Imprese e tenere le scritture contabili",
+    "explanation": "Obblighi tipici dell'imprenditore commerciale.",
+    "source": "Idoneità documento 2 — Obblighi",
+    "source_url": ""
+  },
+  {
+    "id": "DIR_004",
+    "topic": "Diritto",
+    "type": "mcq",
+    "question": "Ai sensi dell'art. 2083 c.c., tra i piccoli imprenditori rientrano:",
+    "choices": [
+      "Solo i commercianti al dettaglio",
+      "Coltivatori diretti, artigiani, piccoli commercianti",
+      "Solo i professionisti",
+      "Solo le start-up innovative"
+    ],
+    "answer": "Coltivatori diretti, artigiani, piccoli commercianti",
+    "explanation": "Elenco tipico art. 2083 c.c.",
+    "source": "Codice Civile art. 2083",
+    "source_url": "https://www.brocardi.it/codice-civile/.../art2083.html"
+  },
+  {
+    "id": "DIR_005",
+    "topic": "Diritto",
+    "type": "tf",
+    "question": "L'imprenditore agricolo esercita attività di coltivazione del fondo, silvicoltura e allevamento.",
+    "answer": true,
+    "explanation": "Definizione sintetica.",
+    "source": "Idoneità documento 2 — Impresa agricola",
+    "source_url": ""
+  },
+  {
+    "id": "DIR_006",
+    "topic": "Diritto",
+    "type": "mcq",
+    "question": "L'avviamento di un'azienda è:",
+    "choices": [
+      "Il capitale sociale",
+      "Il valore aggiunto legato a reputazione e clientela",
+      "Il fatturato annuo",
+      "Il magazzino"
+    ],
+    "answer": "Il valore aggiunto legato a reputazione e clientela",
+    "explanation": "Componenti immateriali che accrescono il valore.",
+    "source": "Idoneità documento 2 — Avviamento",
+    "source_url": ""
+  },
+  {
+    "id": "DIR_007",
+    "topic": "Diritto",
+    "type": "mcq",
+    "question": "Nella S.a.s. i soci accomandanti:",
+    "choices": [
+      "Gestiscono e rispondono illimitatamente",
+      "Non conferiscono capitale",
+      "Rispondono limitatamente al conferimento e non gestiscono",
+      "Sono equiparati agli accomandatari"
+    ],
+    "answer": "Rispondono limitatamente al conferimento e non gestiscono",
+    "explanation": "Accomandanti = responsabilità limitata, no amministrazione.",
+    "source": "Idoneità documento 2 — S.a.s.",
+    "source_url": ""
+  },
+  {
+    "id": "DIR_008",
+    "topic": "Diritto",
+    "type": "mcq",
+    "question": "Il capitale minimo per costituire una S.p.A. in Italia è:",
+    "choices": [
+      "10.000 €",
+      "1 €",
+      "120.000 €",
+      "50.000 €"
+    ],
+    "answer": "50.000 €",
+    "explanation": "Art. 2327 c.c.: minimo 50.000 euro.",
+    "source": "Codice Civile art. 2327",
+    "source_url": "https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticolo?art.codiceRedazionale=042U0262&art.idArticolo=2327"
+  },
+  {
+    "id": "DIR_009",
+    "topic": "Diritto",
+    "type": "tf",
+    "question": "La società semplice non può esercitare attività commerciale.",
+    "answer": true,
+    "explanation": "S.s. riservata ad attività non commerciali (es. agricole).",
+    "source": "Nozioni di diritto societario",
+    "source_url": "https://it.wikipedia.org/wiki/Societ%C3%A0_semplice"
+  },
+  {
+    "id": "DIR_010",
+    "topic": "Diritto",
+    "type": "mcq",
+    "question": "Il principale testo sulla sicurezza nei luoghi di lavoro in Italia è:",
+    "choices": [
+      "Codice Penale",
+      "D.Lgs. 81/2008",
+      "Legge 300/1970",
+      "D.P.R. 633/1972"
+    ],
+    "answer": "D.Lgs. 81/2008",
+    "explanation": "Testo Unico sulla Sicurezza.",
+    "source": "Normattiva D.Lgs. 81/2008",
+    "source_url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81"
+  },
+  {
+    "id": "INF_001",
+    "topic": "Informatica",
+    "type": "mcq",
+    "question": "Il sistema operativo è:",
+    "choices": [
+      "Un tipo di hardware",
+      "Il software di base che gestisce risorse e programmi",
+      "Un linguaggio di programmazione",
+      "Una periferica"
+    ],
+    "answer": "Il software di base che gestisce risorse e programmi",
+    "explanation": "Gestisce memoria, processi, file, dispositivi.",
+    "source": "Studio Idoneità — Informatica",
+    "source_url": ""
+  },
+  {
+    "id": "INF_002",
+    "topic": "Informatica",
+    "type": "mcq",
+    "question": "In una LAN, il protocollo che assegna automaticamente gli indirizzi IP è:",
+    "choices": [
+      "DNS",
+      "DHCP",
+      "HTTP",
+      "FTP"
+    ],
+    "answer": "DHCP",
+    "explanation": "Distribuisce dinamicamente gli IP.",
+    "source": "Studio Idoneità — Reti",
+    "source_url": ""
+  },
+  {
+    "id": "INF_003",
+    "topic": "Informatica",
+    "type": "mcq",
+    "question": "DNS serve a:",
+    "choices": [
+      "Criptare i dati",
+      "Tradurre nomi di dominio in indirizzi IP",
+      "Assegnare IP ai dispositivi",
+      "Bloccare accessi non autorizzati"
+    ],
+    "answer": "Tradurre nomi di dominio in indirizzi IP",
+    "explanation": "Sistema dei nomi a dominio.",
+    "source": "Studio Idoneità — Reti",
+    "source_url": ""
+  },
+  {
+    "id": "INF_004",
+    "topic": "Informatica",
+    "type": "tf",
+    "question": "Le Tabelle Pivot in Excel servono a riassumere e analizzare grandi quantità di dati.",
+    "answer": true,
+    "explanation": "Strumento per analisi e aggregazione.",
+    "source": "Studio Idoneità — Excel",
+    "source_url": ""
+  },
+  {
+    "id": "INF_005",
+    "topic": "Informatica",
+    "type": "mcq",
+    "question": "Una struttura che ripete un blocco di codice è:",
+    "choices": [
+      "If",
+      "For/While",
+      "Switch",
+      "Function"
+    ],
+    "answer": "For/While",
+    "explanation": "Cicli di iterazione.",
+    "source": "Studio Idoneità — Algoritmi",
+    "source_url": ""
+  },
+  {
+    "id": "INF_006",
+    "topic": "Informatica",
+    "type": "mcq",
+    "question": "In un database relazionale, la chiave primaria:",
+    "choices": [
+      "Permette duplicati",
+      "Identifica univocamente ogni record",
+      "È sempre un numero intero",
+      "Coincide sempre con la chiave esterna"
+    ],
+    "answer": "Identifica univocamente ogni record",
+    "explanation": "Primary key = identificatore univoco.",
+    "source": "Studio Idoneità — Database",
+    "source_url": ""
+  },
+  {
+    "id": "INF_007",
+    "topic": "Informatica",
+    "type": "tf",
+    "question": "Il firewall aiuta a bloccare accessi non autorizzati alla rete o al computer.",
+    "answer": true,
+    "explanation": "Strumento di protezione di rete.",
+    "source": "Studio Idoneità — Sicurezza informatica",
+    "source_url": ""
+  },
+  {
+    "id": "INF_008",
+    "topic": "Informatica",
+    "type": "mcq",
+    "question": "La CPU è:",
+    "choices": [
+      "Memoria di massa",
+      "Unità che esegue le istruzioni dei programmi",
+      "Periferica di output",
+      "Firmware di avvio"
+    ],
+    "answer": "Unità che esegue le istruzioni dei programmi",
+    "explanation": "Il 'cervello' del computer.",
+    "source": "Studio Idoneità — Architettura del computer",
+    "source_url": ""
+  },
+  {
+    "id": "INF_009",
+    "topic": "Informatica",
+    "type": "mcq",
+    "question": "La RAM è una memoria:",
+    "choices": [
+      "Non volatile e lenta",
+      "Volatile e veloce",
+      "Permanente su disco",
+      "Di sola lettura"
+    ],
+    "answer": "Volatile e veloce",
+    "explanation": "I dati si perdono allo spegnimento.",
+    "source": "Studio Idoneità — Memoria",
+    "source_url": ""
+  },
+  {
+    "id": "INF_010",
+    "topic": "Informatica",
+    "type": "tf",
+    "question": "La ROM contiene istruzioni di base per l'avvio del computer e non è volatile.",
+    "answer": true,
+    "explanation": "Firmware di base.",
+    "source": "Studio Idoneità — Memoria",
+    "source_url": ""
+  }
+]
